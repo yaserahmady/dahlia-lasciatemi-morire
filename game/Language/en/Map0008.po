@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 10, Pos (0,0)
+msgid " \\>ccccB\\<\\|\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 12, Pos (0,0)
+msgid " \\>iDunkel ist das Leben, ist der Tod.j\\<\\|\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 21, Pos (0,0)
+msgid ""
+"\\S[5]@@@@@@“ÝF‚Ì“Ü“V‚Ì‰ºA\\.\\.­—‚Í“Æ‚è\n"
+"@@@@@@\n"
+"@@@@‰AŸT‚ÈŒû“J‚ð‚«‚È‚ª‚ç¨‚«“¹‚ð‰‚­\\|\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 25, Pos (0,0)
+msgid ""
+"\\S[6]@@@@@@@  Ãæ‚È•‚Ì‹ó‹C‚Ì’†@@@@@@@@@\n"
+"\n"
+"@@ —â‚½‚«•—‚ÍŽ€‚¹‚éŽÒ‚½‚¿‚Ì‘§‚É‚àŽ—‚Ä\\\\\\|\\|\\.\\.\\^@@"
+msgstr ""
+
+#. ID 1, Page 1, Line 34, Pos (0,0)
+msgid " \\>ccccB\\<\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 36, Pos (0,0)
+msgid ""
+"\\> iLasciatemi morire, \n"
+"\\> @Lasciatemi morire...j\\<\\|\\|\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 39, Pos (0,0)
+msgid ""
+"\\> iE che volete voi che mi conforte@\n"
+"\\> @In cosi dura sorte, \n"
+"\\> @In cosi gran martire?j\\<\\|\\|\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 43, Pos (0,0)
+msgid " \\>iLasciatemi morire...j\\<\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 45, Pos (0,0)
+msgid " \\>ccccccB\\<\\|\\|\\|\\^"
+msgstr ""
+

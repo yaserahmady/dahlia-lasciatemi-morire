@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 10, Pos (0,0)
+msgid ""
+"\n"
+"\\>@@@@@@@  Producer@@Subrina\\<\\|\\|\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 13, Pos (0,0)
+msgid ""
+"\n"
+"\\>@@@@@@@  Scenario@@Subrina\\<\\|\\|\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"\n"
+"\\>@@@@Graphic@uGurimaspotv@‹ãð‚Ì‚ñ—l\n"
+"\n"
+"\\>                 uHOT TOKEv@  –ìƒvƒŠƒ“—l\\<\\|\\|\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 21, Pos (0,0)
+msgid ""
+"\n"
+"\\>@@ Graphic@uƒfƒWƒ^ƒ‹‘fÞ‚Ì•”‰®v  yosaku—l\n"
+"\\>              u–z•ú•sã±v           akihito—l\n"
+"\\>              unostalgic+v          ƒ†ƒYƒL—l\\<\\|\\|\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 26, Pos (0,0)
+msgid ""
+"\n"
+"\\>@@Graphic@uF('o')JYno‚ ‚Æ‚è‚¦v  F('o')JY—l@@@\n"
+"\\>             uvelvetendv            akihito—l\n"
+"\\>             uTeddy Plazav             £”ö—l\\<\\|\\|\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 31, Pos (0,0)
+msgid ""
+"\n"
+"\\>@@@ Sound@uG2-MIDIv           ŽOèV—l\n"
+"\n"
+"\\>              uBABY YOU CANv  @@‚Å‚â‚ —l\\<\\|\\|\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 36, Pos (0,0)
+msgid ""
+"\n"
+"\\>@@  Sound@uOLD WOOD HUTv         VaLSe—l\n"
+"\n"
+"\\>             uWhite Music Holev  ƒzƒƒCƒg—l\\<\\|\\|\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 41, Pos (0,0)
+msgid ""
+"\n"
+"\\>@@  Sound@uƒUEƒ}ƒbƒ`ƒƒCƒJƒ@ƒYv  OSA—l\n"
+"\n"
+"\\>             uTAM Music Factoryv    ‘½–²—l\\<\\|\\|\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 46, Pos (0,0)
+msgid ""
+"\n"
+"\\>@@@  Sound@unoa projectv  ‹ó‰H“~‰Ô—l\n"
+"\\>  @           usoundoffice.comv  eyra—l@@@@@\n"
+"\\>    @         u–z•ú•sã±v      akihito—l\\<\\|\\|\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 51, Pos (0,0)
+msgid ""
+"\n"
+"\\>@@@@@@@  Director@@Subrina\\<\\|\\|\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 60, Pos (0,0)
+msgid ""
+"\\>ÅŒã‚Ü‚ÅƒvƒŒƒC‚µ‚Ä‚¢‚½‚¾‚«A\n"
+"\\>–{“–‚É‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚µ‚½B"
+msgstr ""
+
+#. ID 1, Page 1, Line 62, Pos (0,0)
+msgid ""
+"\\>‚µ‚©‚µA‚±‚ê‚Í^‚ÌƒGƒ“ƒfƒBƒ“ƒO‚Å‚Í‚ ‚è‚Ü‚¹‚ñB\n"
+"\\>‚È‚º‚È‚çAƒ_ƒŠƒ„‚ªƒtƒHƒ‹ƒhƒDƒ“‚ð“|‚µ‚És‚­\n"
+"\\>“®‹@‚ª‚Ü‚é‚Å‰ð–¾‚³‚ê‚Ä‚¢‚È‚¢‚©‚ç‚Å‚·B"
+msgstr ""
+
+#. ID 1, Page 1, Line 65, Pos (0,0)
+msgid ""
+"\\>^‚ÌƒGƒ“ƒfƒBƒ“ƒO‚É“ž’B‚·‚é‚½‚ß‚É‚ÍA\n"
+"\\>— ƒ{ƒX‚ð“|‚·•K—v‚ª‚ ‚è‚Ü‚·B"
+msgstr ""
+
+#. ID 1, Page 1, Line 67, Pos (0,0)
+msgid ""
+"\\>— ƒ{ƒX‚Ì”­¶ðŒ‚ÍA\n"
+"\\>ƒ\\[ƒjƒƒ‚ðÅŒã‚Ü‚Å’‡ŠÔ‚É“ü‚ê‚½ó‘Ô‚Å\n"
+"\\>ƒtƒHƒ‹ƒhƒDƒ“‚ð“|‚µA\n"
+"\\>ÅŒã‚Ì‘I‘ðŽˆ‚Å\\C[2]uŽE‚·v\\C[0]‚ð‘I‚Ô‚±‚Æ‚Å‚·B"
+msgstr ""
+
+#. ID 1, Page 1, Line 71, Pos (0,0)
+msgid ""
+"\\>‚µ‚©‚µA‚»‚ÌƒGƒ“ƒfƒBƒ“ƒO‚ÍŒ©‚é‰¿’l‚ª\n"
+"\\>‚È‚¢‚à‚Ì‚©‚à’m‚ê‚Ü‚¹‚ñ‚ªcc"
+msgstr ""
+
+#. ID 1, Page 1, Line 73, Pos (0,0)
+msgid ""
+"\\>‚»‚ê‚Å‚ÍA‘å•Ï‚¨”æ‚ê—l‚Å‚µ‚½B\n"
+"\\>ŽŸ‰ñì‚Å‚¨‰ï‚¢‚µ‚Ü‚µ‚å‚¤B"
+msgstr ""
+

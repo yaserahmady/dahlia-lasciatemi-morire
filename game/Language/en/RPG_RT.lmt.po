@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "MAP0001(birth)"
+msgstr ""
+
+#. ID 3
+msgid "MAP0002(area1)"
+msgstr ""
+
+#. ID 4
+msgid "MAP0003(area2)"
+msgstr ""
+
+#. ID 5
+msgid "MAP0004(area3)"
+msgstr ""
+
+#. ID 6
+msgid "MAP0005(area4)"
+msgstr ""
+
+#. ID 7
+msgid "MAP0006(area5)"
+msgstr ""
+
+#. ID 8
+msgid "MAP0007(op)"
+msgstr ""
+
+#. ID 9
+msgid "MAP0008(op2)"
+msgstr ""
+
+#. ID 10
+msgid "MAP0009(distribute)"
+msgstr ""
+
+#. ID 11
+msgid "MAP0010(last scene)"
+msgstr ""
+
+#. ID 12
+msgid "MAP0011(save point)"
+msgstr ""
+
+#. ID 13
+msgid "MAP0012iendingj"
+msgstr ""
+

@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "ƒ_ƒŠƒ„"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "A-"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "HP"
+msgstr ""
+
+msgctxt "terms.save_game_message"
+msgid "                                 Opt  the  memory."
+msgstr ""
+
+msgctxt "terms.load_game_message"
+msgid "                                 Opt  the  memory."
+msgstr ""
+
+msgctxt "terms.file"
+msgid "memory"
+msgstr ""
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
+

@@ -11,113 +11,113 @@ msgstr ""
 #. ID 1, Page 1, Line 10, Pos (0,0)
 msgid ""
 "\n"
-"\\>@@@@@@@  Producer@@Subrina\\<\\|\\|\\|\\|\\|\\^"
+"\\>　　　　　　　  Producer　　Subrina\\<\\|\\|\\|\\|\\|\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 13, Pos (0,0)
 msgid ""
 "\n"
-"\\>@@@@@@@  Scenario@@Subrina\\<\\|\\|\\|\\|\\|\\^"
+"\\>　　　　　　　  Scenario　　Subrina\\<\\|\\|\\|\\|\\|\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 16, Pos (0,0)
 msgid ""
 "\n"
-"\\>@@@@Graphic@uGurimaspotv@‹ãð‚Ì‚ñ—l\n"
+"\\>　　　　Graphic　「Gurimaspot」　九条のん様\n"
 "\n"
-"\\>                 uHOT TOKEv@  –ìƒvƒŠƒ“—l\\<\\|\\|\\|\\|\\|\\^"
+"\\>                 「HOT TOKE」　  野プリン様\\<\\|\\|\\|\\|\\|\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 21, Pos (0,0)
 msgid ""
 "\n"
-"\\>@@ Graphic@uƒfƒWƒ^ƒ‹‘fÞ‚Ì•”‰®v  yosaku—l\n"
-"\\>              u–z•ú•sã±v           akihito—l\n"
-"\\>              unostalgic+v          ƒ†ƒYƒL—l\\<\\|\\|\\|\\|\\|\\^"
+"\\>　　 Graphic　「デジタル素材の部屋」  yosaku様\n"
+"\\>              「奔放不羈」           akihito様\n"
+"\\>              「nostalgic+」          ユズキ様\\<\\|\\|\\|\\|\\|\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 26, Pos (0,0)
 msgid ""
 "\n"
-"\\>@@Graphic@uF('o')JYno‚ ‚Æ‚è‚¦v  F('o')JY—l@@@\n"
-"\\>             uvelvetendv            akihito—l\n"
-"\\>             uTeddy Plazav             £”ö—l\\<\\|\\|\\|\\|\\|\\^"
+"\\>　　Graphic　「F('o')JYnoあとりえ」  F('o')JY様　　　\n"
+"\\>             「velvetend」            akihito様\n"
+"\\>             「Teddy Plaza」             瀬尾様\\<\\|\\|\\|\\|\\|\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 31, Pos (0,0)
 msgid ""
 "\n"
-"\\>@@@ Sound@uG2-MIDIv           ŽOèV—l\n"
+"\\>　　　 Sound　「G2-MIDI」           三崎新様\n"
 "\n"
-"\\>              uBABY YOU CANv  @@‚Å‚â‚ —l\\<\\|\\|\\|\\|\\|\\^"
+"\\>              「BABY YOU CAN」  　　でやあ様\\<\\|\\|\\|\\|\\|\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 36, Pos (0,0)
 msgid ""
 "\n"
-"\\>@@  Sound@uOLD WOOD HUTv         VaLSe—l\n"
+"\\>　　  Sound　「OLD WOOD HUT」         VaLSe様\n"
 "\n"
-"\\>             uWhite Music Holev  ƒzƒƒCƒg—l\\<\\|\\|\\|\\|\\|\\^"
+"\\>             「White Music Hole」  ホワイト様\\<\\|\\|\\|\\|\\|\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 41, Pos (0,0)
 msgid ""
 "\n"
-"\\>@@  Sound@uƒUEƒ}ƒbƒ`ƒƒCƒJƒ@ƒYv  OSA—l\n"
+"\\>　　  Sound　「ザ・マッチメイカァズ」  OSA様\n"
 "\n"
-"\\>             uTAM Music Factoryv    ‘½–²—l\\<\\|\\|\\|\\|\\|\\^"
+"\\>             「TAM Music Factory」    多夢様\\<\\|\\|\\|\\|\\|\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 46, Pos (0,0)
 msgid ""
 "\n"
-"\\>@@@  Sound@unoa projectv  ‹ó‰H“~‰Ô—l\n"
-"\\>  @           usoundoffice.comv  eyra—l@@@@@\n"
-"\\>    @         u–z•ú•sã±v      akihito—l\\<\\|\\|\\|\\|\\|\\^"
+"\\>　　　  Sound　「noa project」  空羽冬花様\n"
+"\\>  　           「soundoffice.com」  eyra様　　　　　\n"
+"\\>    　         「奔放不羈」      akihito様\\<\\|\\|\\|\\|\\|\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 51, Pos (0,0)
 msgid ""
 "\n"
-"\\>@@@@@@@  Director@@Subrina\\<\\|\\|\\|\\.\\.\\^"
+"\\>　　　　　　　  Director　　Subrina\\<\\|\\|\\|\\.\\.\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 60, Pos (0,0)
 msgid ""
-"\\>ÅŒã‚Ü‚ÅƒvƒŒƒC‚µ‚Ä‚¢‚½‚¾‚«A\n"
-"\\>–{“–‚É‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚µ‚½B"
+"\\>最後までプレイしていただき、\n"
+"\\>本当にありがとうございました。"
 msgstr ""
 
 #. ID 1, Page 1, Line 62, Pos (0,0)
 msgid ""
-"\\>‚µ‚©‚µA‚±‚ê‚Í^‚ÌƒGƒ“ƒfƒBƒ“ƒO‚Å‚Í‚ ‚è‚Ü‚¹‚ñB\n"
-"\\>‚È‚º‚È‚çAƒ_ƒŠƒ„‚ªƒtƒHƒ‹ƒhƒDƒ“‚ð“|‚µ‚És‚­\n"
-"\\>“®‹@‚ª‚Ü‚é‚Å‰ð–¾‚³‚ê‚Ä‚¢‚È‚¢‚©‚ç‚Å‚·B"
+"\\>しかし、これは真のエンディングではありません。\n"
+"\\>なぜなら、ダリヤがフォルドゥンを倒しに行く\n"
+"\\>動機がまるで解明されていないからです。"
 msgstr ""
 
 #. ID 1, Page 1, Line 65, Pos (0,0)
 msgid ""
-"\\>^‚ÌƒGƒ“ƒfƒBƒ“ƒO‚É“ž’B‚·‚é‚½‚ß‚É‚ÍA\n"
-"\\>— ƒ{ƒX‚ð“|‚·•K—v‚ª‚ ‚è‚Ü‚·B"
+"\\>真のエンディングに到達するためには、\n"
+"\\>裏ボスを倒す必要があります。"
 msgstr ""
 
 #. ID 1, Page 1, Line 67, Pos (0,0)
 msgid ""
-"\\>— ƒ{ƒX‚Ì”­¶ðŒ‚ÍA\n"
-"\\>ƒ\\[ƒjƒƒ‚ðÅŒã‚Ü‚Å’‡ŠÔ‚É“ü‚ê‚½ó‘Ô‚Å\n"
-"\\>ƒtƒHƒ‹ƒhƒDƒ“‚ð“|‚µA\n"
-"\\>ÅŒã‚Ì‘I‘ðŽˆ‚Å\\C[2]uŽE‚·v\\C[0]‚ð‘I‚Ô‚±‚Æ‚Å‚·B"
+"\\>裏ボスの発生条件は、\n"
+"\\>ソーニャを最後まで仲間に入れた状態で\n"
+"\\>フォルドゥンを倒し、\n"
+"\\>最後の選択肢で\\C[2]「殺す」\\C[0]を選ぶことです。"
 msgstr ""
 
 #. ID 1, Page 1, Line 71, Pos (0,0)
 msgid ""
-"\\>‚µ‚©‚µA‚»‚ÌƒGƒ“ƒfƒBƒ“ƒO‚ÍŒ©‚é‰¿’l‚ª\n"
-"\\>‚È‚¢‚à‚Ì‚©‚à’m‚ê‚Ü‚¹‚ñ‚ªcc"
+"\\>しかし、そのエンディングは見る価値が\n"
+"\\>ないものかも知れませんが……"
 msgstr ""
 
 #. ID 1, Page 1, Line 73, Pos (0,0)
 msgid ""
-"\\>‚»‚ê‚Å‚ÍA‘å•Ï‚¨”æ‚ê—l‚Å‚µ‚½B\n"
-"\\>ŽŸ‰ñì‚Å‚¨‰ï‚¢‚µ‚Ü‚µ‚å‚¤B"
+"\\>それでは、大変お疲れ様でした。\n"
+"\\>次回作でお会いしましょう。"
 msgstr ""
 

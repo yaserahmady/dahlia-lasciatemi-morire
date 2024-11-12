@@ -9,49 +9,49 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 1, Page 1, Line 10, Pos (0,0)
-msgid " \\>ccccB\\<\\|\\|\\.\\.\\^"
+msgid " \\>…………。\\<\\|\\|\\.\\.\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 12, Pos (0,0)
-msgid " \\>iDunkel ist das Leben, ist der Tod.j\\<\\|\\|\\.\\.\\^"
+msgid " \\>（Dunkel ist das Leben, ist der Tod.）\\<\\|\\|\\.\\.\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 21, Pos (0,0)
 msgid ""
-"\\S[5]@@@@@@“ÝF‚Ì“Ü“V‚Ì‰ºA\\.\\.­—‚Í“Æ‚è\n"
-"@@@@@@\n"
-"@@@@‰AŸT‚ÈŒû“J‚ð‚«‚È‚ª‚ç¨‚«“¹‚ð‰‚­\\|\\|\\.\\.\\^"
+"\\S[5]　　　　　　鈍色の曇天の下、\\.\\.少女は独り\n"
+"　　　　　　\n"
+"　　　　陰鬱な口笛を吹きながら昏き道を往く\\|\\|\\.\\.\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 25, Pos (0,0)
 msgid ""
-"\\S[6]@@@@@@@  Ãæ‚È•‚Ì‹ó‹C‚Ì’†@@@@@@@@@\n"
+"\\S[6]　　　　　　　  静謐な黒の空気の中　　　　　　　　　\n"
 "\n"
-"@@ —â‚½‚«•—‚ÍŽ€‚¹‚éŽÒ‚½‚¿‚Ì‘§‚É‚àŽ—‚Ä\\\\\\|\\|\\.\\.\\^@@"
+"　　 冷たき風は死せる者たちの息吹にも似て――\\|\\|\\.\\.\\^　　"
 msgstr ""
 
 #. ID 1, Page 1, Line 34, Pos (0,0)
-msgid " \\>ccccB\\<\\|\\|\\|\\^"
+msgid " \\>…………。\\<\\|\\|\\|\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 36, Pos (0,0)
 msgid ""
-"\\> iLasciatemi morire, \n"
-"\\> @Lasciatemi morire...j\\<\\|\\|\\|\\.\\.\\^"
+"\\> （Lasciatemi morire, \n"
+"\\> 　Lasciatemi morire...）\\<\\|\\|\\|\\.\\.\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 39, Pos (0,0)
 msgid ""
-"\\> iE che volete voi che mi conforte@\n"
-"\\> @In cosi dura sorte, \n"
-"\\> @In cosi gran martire?j\\<\\|\\|\\|\\|\\|\\^"
+"\\> （E che volete voi che mi conforte　\n"
+"\\> 　In cosi dura sorte, \n"
+"\\> 　In cosi gran martire?）\\<\\|\\|\\|\\|\\|\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 43, Pos (0,0)
-msgid " \\>iLasciatemi morire...j\\<\\|\\|\\|\\^"
+msgid " \\>（Lasciatemi morire...）\\<\\|\\|\\|\\^"
 msgstr ""
 
 #. ID 1, Page 1, Line 45, Pos (0,0)
-msgid " \\>ccccccB\\<\\|\\|\\|\\^"
+msgid " \\>………………。\\<\\|\\|\\|\\^"
 msgstr ""
 

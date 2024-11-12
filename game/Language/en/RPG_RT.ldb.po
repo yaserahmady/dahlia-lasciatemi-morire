@@ -10,7 +10,7 @@ msgstr ""
 
 #. ID 1
 msgctxt "actors.name"
-msgid "ƒ_ƒŠƒ„"
+msgid "ダリヤ"
 msgstr ""
 
 msgctxt "terms.lvl_short"

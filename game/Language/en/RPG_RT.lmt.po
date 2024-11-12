@@ -53,6 +53,6 @@ msgid "MAP0011(save point)"
 msgstr ""
 
 #. ID 13
-msgid "MAP0012iendingj"
+msgid "MAP0012（ending）"
 msgstr ""
 

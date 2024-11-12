@@ -1,0 +1,91 @@
+【 使用素材 】 
+
+　　　　下記の素材提供サイト様より、素材をお借りいたしました。
+　　　　各素材提供者様には厚く御礼申し上げます。
+　　　　各素材の著作権は、それぞれ作成された方が有しています。
+　　　　各データを本ゲームのフォルダから無断で抜き出して、
+　　　　転載・転用することを禁止いたします。
+
+
+
+　　顔グラ　……「Gurimaspot」九条のん様
+　　　　　　　　　http://gurimasu.cside5.jp/index.htm
+
+　　モングラ……「HOT TOKE」野プリン様
+　　　　　　　　　http://wild-pd.hp.infoseek.co.jp/infor.html
+
+　　　　　　　　「放蕩隠者」Ｔ★Ｐ様
+　　　　　　　　　http://rod211x.hp.infoseek.co.jp//index.htm
+
+　　タイトル……「デジタル素材の部屋」yosaku様
+　　　　　　　　　http://yosaku12.cool.ne.jp/
+
+　　数字　　……「奔放不羈」akihito様
+　　　　　　　　　http://www010.upp.so-net.ne.jp/chkf/index.html
+
+　　　　　　　　「nostalgic+」ユズキ様
+　　　　　　　　　http://vipss.hp.infoseek.co.jp/yuzuki.html
+
+　　背景画像……「Ｆ('Ｏ')ＪＹnoあとりえ」Ｆ('Ｏ')ＪＹ様
+　　　　　　　　　http://fojy.hp.infoseek.co.jp/products/atelier/index.htm
+
+　　　　　　　　「velvetend」akihito様
+　　　　　　　　　http://www.velvetend.net/
+
+　　　　　　　　「Teddy Plaza」瀬尾様
+　　　　　　　　　http://theodore.ikebukuro.cc/
+
+　　音楽　　……「G2-MIDI」三崎新様
+　　　　　　　　　http://homepage2.nifty.com/misasa/
+
+　　　　　　　　「BABY YOU CAN」でやあ様
+　　　　　　　　　http://www.geocities.jp/chirioji/
+
+　　　　　　　　「nerve（雑音空間）」草薙考司様
+　　　　　　　　　http://k2works.com/nerve/
+
+　　　　　　　　「OLD WOOD HUT」VaLSe様
+　　　　　　　　　http://valse.fromc.com/
+
+　　　　　　　　「White Music Hole」ホワイト様
+　　　　　　　　　http://white.holy.jp/white/
+
+　　効果音　……「ザ・マッチメイカァズ」OSA様
+　　　　　　　　　http://osabisi.sakura.ne.jp/m2/
+
+　　　　　　　　「TAM Music Factory」多夢様
+　　　　　　　　　http://www.tam-music.com/
+
+　　　　　　　　「noa project」空羽冬花様
+　　　　　　　　　http://www.ne.jp/asahi/noa/project/
+
+　　　　　　　　「soundoffice.com」eyra様
+　　　　　　　　　http://www.soundoffice.com/
+
+　　　　　　　　「奔放不羈」akihito様
+　　　　　　　　　http://www010.upp.so-net.ne.jp/chkf/index.html
+
+
+【シーン別音楽著作権表示】
+
+
+　　　　　　　　　タイトル　　：suiren　　　　　（G2-MIDI様）
+
+　　　　　　　　　オープニング：horror2　　　 　（BABY YOU CAN様）
+　　　　　　　　　　　　　　　　rain　　　　　　（OLD WOOD HUT様）
+
+　　　　　　　　　Stage1　　　：lunar_desert　　（BABY YOU CAN様）
+　　　　　　　　　Stage2　　　：luna　　　　　　（G2-MIDI様）
+　　　　　　　　　Stage3　　　：frozen-catsle　 （OLD WOOD HUT様）
+　　　　　　　　　Stage4　　　：rpg63　　　　 　（WHITE MUSIC HOLE様）
+　　　　　　　　　Stage5　　　：bm4　　　　　　 （nerve（雑音空間）様）
+
+　　　　　　　　　通常戦　　　：dancers2　　　　（nerve（雑音空間）様）
+　　　　　　　　　ボス戦　　　：rpg76　　　　 　（WHITE MUSIC HOLE様）
+　　　　　　　　　ラストバトル：dancers7　　　　（nerve（雑音空間）様）
+　　　　　　　　　裏ボス戦　　：nofuture　　　　（nerve（雑音空間）様）
+
+　　　　　　　　　ラスボス前　：anxiety05       （BABY YOU CAN様）
+　　　　　　　　　ラスボス後　：rain　　　　　　（OLD WOOD HUT様）
+
+　　　　　　　　　エンディング：sorato　　　　  （G2-MIDI様）
